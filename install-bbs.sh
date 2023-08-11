@@ -5,3 +5,4 @@ tar -xvzf atlassian-bitbucket-8.12.1.tar.gz
 
 mkdir -p /workspace/bitbucket_home
 export BITBUCKET_HOME=/workspace/bitbucket_home
+export JAVA_HOME="/usr/lib/jvm/java-11-openjdk-amd64"
